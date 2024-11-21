@@ -1,0 +1,10 @@
+//
+//  URL.xcconfig
+//  ExamAI V2
+//
+//  Created by Apple Esprit on 18/11/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BACKEND_URL = "http://192.168.125.121:3000/"
